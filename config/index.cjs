@@ -13,7 +13,7 @@ const USER_CONFIG = {
         {
             "name": "茜茜宝贝",
             "id": "ooi7r6ZOoHq2aVQT8qzfKfAV0VII",
-            "useTemplateId": "Y05YXBzHxtcjPPrGm743tMVo0-Uq2yR0jT7t7LjEa1I\t",
+            "useTemplateId": "Q4FQ8b2ExW1_riHykmb6TUHMomSoHJ0u65crsSik2CA",
             "province": "湖北",
             "city": "武汉",
             "horoscopeDate": "11-17",
