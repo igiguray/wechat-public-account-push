@@ -1,4 +1,4 @@
-{
+const USER_CONFIG = {
     "APP_ID": "wxf73816cfe8d1b052",
     "APP_SECRET": "09c79cb59fcefa17aa11c3241cfce0a1",
     "IS_SHOW_COLOR": true,
