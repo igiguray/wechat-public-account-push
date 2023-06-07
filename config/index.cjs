@@ -1,15 +1,15 @@
 const USER_CONFIG = {
-    "APP_ID": "wxf73816cfe8d1b052",
-    "APP_SECRET": "09c79cb59fcefa17aa11c3241cfce0a1",
-    "IS_SHOW_COLOR": true,
-    "CALLBACK_TEMPLATE_ID": "humiOa0DDFUGNJyHhPBhxY14ZSJL-It2rstoZ3BKo6k",
-    "CALLBACK_USERS": [
+    APP_ID: "wxf73816cfe8d1b052",
+    APP_SECRET: "09c79cb59fcefa17aa11c3241cfce0a1",
+    IS_SHOW_COLOR: true,
+    CALLBACK_TEMPLATE_ID: "humiOa0DDFUGNJyHhPBhxY14ZSJL-It2rstoZ3BKo6k",
+    CALLBACK_USERS: [
         {
             "name": "自己",
             "id": "ooi7r6ZOoHq2aVQT8qzfKfAV0VII"
         }
     ],
-    "USERS": [
+    USERS: [
         {
             "name": "茜茜宝贝",
             "id": "ooi7r6ZOoHq2aVQT8qzfKfAV0VII",
@@ -29,7 +29,7 @@ const USER_CONFIG = {
             "customizedDateList": []
         }
     ],
-    "SWITCH": {
+    SWITCH: {
         "weather": true,
         "holidaytts": true,
         "CIBA": false,
