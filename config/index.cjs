@@ -42,3 +42,5 @@ const USER_CONFIG = {
         "birthdayMessage": true
     }
 }
+
+module.exports = USER_CONFIG
