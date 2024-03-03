@@ -45,7 +45,7 @@ const USER_CONFIG = {
     poisonChickenSoup: false,
 
     // 古诗古文, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    poetry: false,
+    poetry: true,
 
     /** 星座运势 */
     // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ooi7r6ZOoHq2aVQT8qzfKfAV0VII',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'Q4FQ8b2ExW1_riHykmb6TUHMomSoHJ0u65crsSik2CA',
+      useTemplateId: '01q7R5I2Fo5BnjHUED4ljgjNZvfPMWTEOWTSmOunSE4',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-17',
       festivals: [
